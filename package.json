@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MuthusamyV88/EBTracker/issues"
   },
-  "homepage": "https://github.com/MuthusamyV88/EBTracker#readme"
+  "homepage": "https://github.com/MuthusamyV88/EBTracker#readme",
+  "dependencies": {
+    "@netlify/functions": "^1.0.0"
+  }
 }
